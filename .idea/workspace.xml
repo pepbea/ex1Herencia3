@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5633d081-16cd-4b83-afdf-dc1ccd28bb05" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Programame" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZD6YDa4jdwbcnU6PJhXFEEISC1" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/factura" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/factura" />
+      <recent name="$PROJECT_DIR$/src/area" />
+      <recent name="$PROJECT_DIR$/src/organismes" />
+      <recent name="$PROJECT_DIR$/src/transport" />
+      <recent name="$PROJECT_DIR$/src/ex4" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.ProvaBiblioteca">
+    <configuration name="EjecutarVehicle2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="package10.EjecutarVehicle2" />
+      <module name="Programame" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="package10.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ex3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex3.Ex3" />
+      <module name="Programame" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ex3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProvaBiblioteca" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="biblioteca.ProvaBiblioteca" />
+      <module name="Programame" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="biblioteca.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProvaFitxes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="biblioteca.ProvaFitxes" />
+      <module name="Programame" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="biblioteca.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestGeometrics" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex1.TestGeometrics" />
+      <module name="Programame" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ex1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ProvaBiblioteca" />
+        <item itemvalue="Application.ProvaFitxes" />
+        <item itemvalue="Application.Ex3" />
+        <item itemvalue="Application.TestGeometrics" />
+        <item itemvalue="Application.EjecutarVehicle2" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5633d081-16cd-4b83-afdf-dc1ccd28bb05" name="Default Changelist" comment="" />
+      <created>1584361362564</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584361362564</updated>
+      <workItem from="1584361366501" duration="30000" />
+      <workItem from="1584375732810" duration="6067000" />
+      <workItem from="1584456866286" duration="11771000" />
+      <workItem from="1584639714620" duration="4030000" />
+      <workItem from="1585061444756" duration="6947000" />
+      <workItem from="1585152586321" duration="7309000" />
+      <workItem from="1585243417965" duration="6779000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="41" y="117" width="527" height="583" key="#com.intellij.ide.util.MemberChooser" timestamp="1585068125602">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="41" y="117" width="527" height="583" key="#com.intellij.ide.util.MemberChooser/0.27.1366.741@0.27.1366.741" timestamp="1585068125602" />
+    <state width="1318" height="50" key="GridCell.Tab.0.bottom" timestamp="1585251754073">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1318" height="50" key="GridCell.Tab.0.bottom/0.27.1366.741@0.27.1366.741" timestamp="1585251754073" />
+    <state width="1318" height="50" key="GridCell.Tab.0.center" timestamp="1585251754072">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1318" height="50" key="GridCell.Tab.0.center/0.27.1366.741@0.27.1366.741" timestamp="1585251754072" />
+    <state width="1318" height="50" key="GridCell.Tab.0.left" timestamp="1585251754071">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1318" height="50" key="GridCell.Tab.0.left/0.27.1366.741@0.27.1366.741" timestamp="1585251754071" />
+    <state width="1318" height="50" key="GridCell.Tab.0.right" timestamp="1585251754073">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1318" height="50" key="GridCell.Tab.0.right/0.27.1366.741@0.27.1366.741" timestamp="1585251754073" />
+    <state x="166" y="27" width="1024" height="741" key="SettingsEditor" timestamp="1584361396263">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="166" y="27" width="1024" height="741" key="SettingsEditor/0.27.1366.741@0.27.1366.741" timestamp="1584361396263" />
+    <state x="349" y="225" key="com.intellij.ide.util.TipDialog" timestamp="1585243418091">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="349" y="225" key="com.intellij.ide.util.TipDialog/0.27.1366.741@0.27.1366.741" timestamp="1585243418091" />
+    <state x="673" y="27" width="683" height="741" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1584474399734">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="673" y="27" width="683" height="741" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.27.1366.741@0.27.1366.741" timestamp="1584474399734" />
+    <state x="11" y="27" width="1345" height="741" key="new project wizard" timestamp="1584609912522">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="11" y="27" width="1345" height="741" key="new project wizard/0.27.1366.741@0.27.1366.741" timestamp="1584609912522" />
+  </component>
+</project>
