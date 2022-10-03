@@ -23,17 +23,17 @@ public class Main {
 		a.add(lab1);
 		
 		for(Area area : a){
-			System.out.println("El codi de l'�rea �s: "+area.getCode());
+			System.out.println("El codi de l'area es: "+area.getCode());
 			System.out.println("De tipus:"+area.getClass().getName());
-			System.out.println("El consum �s:"+area.getConsuption());
+			System.out.println("El consum es:"+area.getConsuption());
 			if(area instanceof Gym){
 				Gym gym = (Gym)area;
-				System.out.println("El total de metres h�bils:"+gym.surfaceAreaStudent());
+				System.out.println("El total de metres habils:"+gym.surfaceAreaStudent());
 			} else if(area instanceof Classroom){
 				Classroom clas = (Classroom)area;
-				System.out.println("El total de metres h�bils:"+clas.surfaceAreaStudent());
+				System.out.println("El total de metres habils:"+clas.surfaceAreaStudent());
 			} else{
-				System.out.println("El total de metres h�bils:"+area.getSurfaceArea());
+				System.out.println("El total de metres habils:"+area.getSurfaceArea());
 			}
 			System.out.println("");
 		}
