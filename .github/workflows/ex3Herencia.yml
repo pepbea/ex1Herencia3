@@ -11,8 +11,8 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - name: Compila programa
-        run: javac Ex3.java
+        run: javac src/ex3/Ex3.java
       - name: Executa programa
-        run: java Ex3
-        
-  
+        run: java src/ex3/Ex3
+        output:
+          path: java_output.txt
